@@ -3,7 +3,6 @@
     package="com.example.administrator.myapplication">
 
     <uses-permission android:name="android.permission.SEND_SMS" />
-    <uses-permission android:name="android.permission.SEND_SMS" />
     <uses-permission android:name="android.permission.send_respond_via_message" />
     <application
         android:allowBackup="true"
