@@ -2,6 +2,7 @@
     <string name="app_name">My Application</string>
 
     <string name="hello_world">Hello world!</string>
-    <string name="clieckMe">点击我</string>
+    <string name="clieckMe">点击我啊</string>
     <string name="action_settings">Settings</string>
+
 </resources>
