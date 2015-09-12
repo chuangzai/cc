@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
 
+    <string name="c1">c1</string>
+
     <string name="hello_world">Hello world!</string>
     <string name="clieckMe">点击</string>
     <string name="action_settings">Settings</string>
